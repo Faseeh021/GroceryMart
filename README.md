@@ -1,11 +1,10 @@
-GroceryMart is a simple yet functional grocery shopping mobile app built using Flutter and Bloc for state management. It simulates product browsing, category-based exploration, and cart management using local data.
+**GroceryMart** is a simple yet functional grocery shopping mobile app built using Flutter and Bloc for state management. It simulates product browsing, category-based exploration, and cart management using local data.
 
-🚀 Features
-🏠 Home Screen
+# 🚀 Features
+##🏠 Home Screen
+
 Displays all products
-
 Search bar to filter products by name (real-time)
-
 Add to Cart button on each product
 
 🔍 Explore Screen
